@@ -1,0 +1,129 @@
+*{  background-image: url(../img/xt.svg);
+    padding: 0%;
+margin: 0%;}
+.image1{
+    background-image: url(../img/1.jpg);
+    background-position: 0 0;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    color: rgb(95, 18, 18);
+    font-size: 130px;
+    padding-top: 200px;
+}
+.image2{
+    background-image: url(../img/2.jpeg);
+    background-position: 0 0;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    color: rgb(95, 18, 18);
+    font-size: 130px;
+    padding-top: 200px;
+}
+.image3{
+    background-image: url(../img/3.webp);
+    background-position: 0 0;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    color: rgb(95, 18, 18);
+    font-size: 130px;
+    padding-top: 200px;
+}
+.image4{
+    background-image: url(../img/4.jpeg);
+    background-position: 0 0;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    color: rgb(95, 18, 18);
+    font-size: 130px;
+    padding-top: 200px;
+}
+.image5{
+    background-image: url(../img/5.webp);
+    background-position: 0 0;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    color: rgb(95, 18, 18);
+    font-size: 130px;
+    padding-top: 200px;
+}
+
+
+
+
+.article{
+    position: relative;
+    top: 480px;
+    font-size: 55px;
+    color: rgb(31, 106, 171);
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(31, 39, 109);
+}
+.main{color: rgb(72, 123, 167);
+    text-align: center;
+    font-weight: bolder;
+    background-image: url(../img/6.jpg);
+    background-position: 0 0;
+    background-attachment: fixed;
+    background-size: cover;
+    height:auto;
+    width: auto;
+    font-size: 100px;
+    margin-top:20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background: url(../img/texture.png);
+    box-shadow: 0 30px 50px 0 #00000026;
+    
+}
+.word{
+    text-align:left;
+    font-size: 20px;
+    font-weight: bolder;
+    height: auto;;
+    line-height: 35px;
+    background-color: rgb(233, 223, 223);
+    color: rgb(13, 13, 27);
+}
+.charts{
+    width:auto;
+    height: 500px;
+    margin: 15px;
+    background-color: rgb(234, 226, 223);
+}
+.title{
+    width:auto;
+    height: auto;
+    background-color: rgb(52, 6, 6);
+    margin: auto;
+    padding: 10px;
+    font-size: 30px;
+}
+.author{
+    width:auto;
+    height: auto;
+    background-color: rgb(14, 153, 155);
+}
+.image{padding-top: 200px;
+       height: 100px;
+       font-size: 150px;
+    }
+
+.footer{color: #000;
+    width: 960px;
+    height: 20px;
+ 
+    font-size: 20px;
+    margin: auto;
+    padding: 5px;
+    text-align: center;}
